@@ -1,0 +1,14 @@
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\bin\Debug\POSTTEST_1.exe.config
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\bin\Debug\POSTTEST_1.exe
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\bin\Debug\POSTTEST_1.pdb
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\bin\Debug\POSTTEST_1.xml
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.Form1.resources
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.Resources.resources
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.vbproj.GenerateResource.Cache
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.exe
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.xml
+C:\Users\ziruy\AppData\Local\Temporary Projects\POSTTEST_1\obj\Debug\POSTTEST_1.pdb
+C:\Users\ziruy\Documents\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\bin\Debug\POSTTEST_1.exe.config
+C:\Users\ziruy\Documents\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\POSTTEST_1.exe
+C:\Users\ziruy\Documents\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\POSTTEST_1.xml
+C:\Users\ziruy\Documents\POSTTEST_VIS\POSTTEST_1\POSTTEST_1\obj\Debug\POSTTEST_1.pdb
