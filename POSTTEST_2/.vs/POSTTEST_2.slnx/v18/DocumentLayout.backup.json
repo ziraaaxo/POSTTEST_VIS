@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\ziruy\\documents\\posttest_vis\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\ziruy\\documents\\posttest_vis\\posttest_2\\posttest_2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|c:\\users\\ziruy\\documents\\posttest_vis\\posttest_2\\posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{818D69C9-F732-4A82-8547-853E053116D2}|POSTTEST_2\\POSTTEST_2.vbproj|solutionrelative:posttest_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
+              "ToolTip": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeToolTip": "POSTTEST_2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T15:43:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Module1.vb",
+              "RelativeDocumentMoniker": "POSTTEST_2\\Module1.vb",
+              "ToolTip": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Module1.vb",
+              "RelativeToolTip": "POSTTEST_2\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T15:42:39.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST_2\\Form1.vb",
+              "ToolTip": "C:\\Users\\ziruy\\Documents\\POSTTEST_VIS\\POSTTEST_2\\POSTTEST_2\\Form1.vb [Design]",
+              "RelativeToolTip": "POSTTEST_2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T15:26:24.141Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
